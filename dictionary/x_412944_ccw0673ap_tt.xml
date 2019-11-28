@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="TT" max_length="40" name="x_412944_ccw0673ap_tt" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="TT" max_length="40" name="tt" type="string"/>
+    </element>
+</database>
